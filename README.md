@@ -39,12 +39,19 @@ This project demonstrates:
 
 # Output:
 ![Screenshot 2025-01-05 201720](https://github.com/user-attachments/assets/07e08f0d-b52a-494d-a593-70e956a8ed5e)
+
 ![Screenshot 2025-01-05 201747](https://github.com/user-attachments/assets/01a94689-10dc-4087-a209-b70e7f58404c)
+
 ![Screenshot 2025-01-05 201734](https://github.com/user-attachments/assets/6a85147a-7413-471f-843f-489def1acd9d)
+
 ![Screenshot 2025-01-05 201802](https://github.com/user-attachments/assets/b4b97f71-2b58-488a-88f4-691978782326)
+
 ![Screenshot 2025-01-05 201821](https://github.com/user-attachments/assets/7fa83504-5da2-471f-9459-b8e006f6c973)
+
 ![Screenshot 2025-01-05 202221](https://github.com/user-attachments/assets/08e5b1d0-5964-4c79-b008-dd6f80dfa1e3)
+
 ![Screenshot 2025-01-05 202240](https://github.com/user-attachments/assets/78923f83-a58b-45e8-b560-260f81cf7170)
+
 ![Screenshot 2025-01-05 201835](https://github.com/user-attachments/assets/46008f37-0448-451b-9e34-3c30e021e751)
 
 
